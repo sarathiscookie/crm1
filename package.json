@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0"
+  },
+  "dependencies": {
+    "chart.js": "^2.1.2",
+    "laravel-elixir-vueify": "^1.0.3",
+    "vue": "^1.0.22",
+    "vue-resource": "^0.7.0"
+  }
+}
